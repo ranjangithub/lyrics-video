@@ -1,0 +1,8 @@
+numpy
+pillow
+pillow-heif
+scipy
+librosa
+soundfile
+onnxruntime
+sherpa-onnx
